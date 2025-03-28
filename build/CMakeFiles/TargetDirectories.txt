@@ -1,0 +1,8 @@
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/build/CMakeFiles/edit_cache.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/build/CMakeFiles/rebuild_cache.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/build/semcv/CMakeFiles/semcv.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/build/semcv/CMakeFiles/edit_cache.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/build/semcv/CMakeFiles/rebuild_cache.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/build/apps/task01-01/CMakeFiles/task01-01.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/build/apps/task01-01/CMakeFiles/edit_cache.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/build/apps/task01-01/CMakeFiles/rebuild_cache.dir
