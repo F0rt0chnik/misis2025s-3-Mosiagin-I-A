@@ -1,0 +1,339 @@
+{
+    "blur_size": 25,
+    "collage_size": 5,
+    "colors": {
+        "bg_color": 0,
+        "elps_color": 255
+    },
+    "margin": 32,
+    "noise_std": 15.0,
+    "random_seed": 21,
+    "tile_size": 256,
+    "tiles": [
+        {
+            "elps_parameters": {
+                "elps_angle": 120.0,
+                "elps_height": 10,
+                "elps_width": 10,
+                "elps_x": 108,
+                "elps_y": 46
+            },
+            "pic_coordinates": {
+                "col": 0,
+                "row": 0
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 317.0,
+                "elps_height": 73,
+                "elps_width": 54,
+                "elps_x": 150,
+                "elps_y": 114
+            },
+            "pic_coordinates": {
+                "col": 1,
+                "row": 0
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 84.0,
+                "elps_height": 46,
+                "elps_width": 48,
+                "elps_x": 174,
+                "elps_y": 90
+            },
+            "pic_coordinates": {
+                "col": 2,
+                "row": 0
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 184.0,
+                "elps_height": 33,
+                "elps_width": 22,
+                "elps_x": 111,
+                "elps_y": 190
+            },
+            "pic_coordinates": {
+                "col": 3,
+                "row": 0
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 236.0,
+                "elps_height": 16,
+                "elps_width": 28,
+                "elps_x": 185,
+                "elps_y": 60
+            },
+            "pic_coordinates": {
+                "col": 4,
+                "row": 0
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 291.0,
+                "elps_height": 15,
+                "elps_width": 26,
+                "elps_x": 100,
+                "elps_y": 95
+            },
+            "pic_coordinates": {
+                "col": 0,
+                "row": 1
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 271.0,
+                "elps_height": 10,
+                "elps_width": 12,
+                "elps_x": 164,
+                "elps_y": 203
+            },
+            "pic_coordinates": {
+                "col": 1,
+                "row": 1
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 133.0,
+                "elps_height": 38,
+                "elps_width": 19,
+                "elps_x": 186,
+                "elps_y": 132
+            },
+            "pic_coordinates": {
+                "col": 2,
+                "row": 1
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 332.0,
+                "elps_height": 45,
+                "elps_width": 14,
+                "elps_x": 121,
+                "elps_y": 160
+            },
+            "pic_coordinates": {
+                "col": 3,
+                "row": 1
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 250.0,
+                "elps_height": 22,
+                "elps_width": 16,
+                "elps_x": 82,
+                "elps_y": 72
+            },
+            "pic_coordinates": {
+                "col": 4,
+                "row": 1
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 207.0,
+                "elps_height": 10,
+                "elps_width": 19,
+                "elps_x": 174,
+                "elps_y": 202
+            },
+            "pic_coordinates": {
+                "col": 0,
+                "row": 2
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 8.0,
+                "elps_height": 17,
+                "elps_width": 43,
+                "elps_x": 118,
+                "elps_y": 163
+            },
+            "pic_coordinates": {
+                "col": 1,
+                "row": 2
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 126.0,
+                "elps_height": 34,
+                "elps_width": 35,
+                "elps_x": 110,
+                "elps_y": 145
+            },
+            "pic_coordinates": {
+                "col": 2,
+                "row": 2
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 206.0,
+                "elps_height": 35,
+                "elps_width": 38,
+                "elps_x": 159,
+                "elps_y": 106
+            },
+            "pic_coordinates": {
+                "col": 3,
+                "row": 2
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 18.0,
+                "elps_height": 15,
+                "elps_width": 13,
+                "elps_x": 99,
+                "elps_y": 209
+            },
+            "pic_coordinates": {
+                "col": 4,
+                "row": 2
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 50.0,
+                "elps_height": 14,
+                "elps_width": 44,
+                "elps_x": 91,
+                "elps_y": 138
+            },
+            "pic_coordinates": {
+                "col": 0,
+                "row": 3
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 227.0,
+                "elps_height": 59,
+                "elps_width": 26,
+                "elps_x": 148,
+                "elps_y": 99
+            },
+            "pic_coordinates": {
+                "col": 1,
+                "row": 3
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 161.0,
+                "elps_height": 11,
+                "elps_width": 21,
+                "elps_x": 53,
+                "elps_y": 93
+            },
+            "pic_coordinates": {
+                "col": 2,
+                "row": 3
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 330.0,
+                "elps_height": 12,
+                "elps_width": 32,
+                "elps_x": 84,
+                "elps_y": 73
+            },
+            "pic_coordinates": {
+                "col": 3,
+                "row": 3
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 65.0,
+                "elps_height": 77,
+                "elps_width": 11,
+                "elps_x": 141,
+                "elps_y": 123
+            },
+            "pic_coordinates": {
+                "col": 4,
+                "row": 3
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 205.0,
+                "elps_height": 21,
+                "elps_width": 21,
+                "elps_x": 101,
+                "elps_y": 75
+            },
+            "pic_coordinates": {
+                "col": 0,
+                "row": 4
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 107.0,
+                "elps_height": 19,
+                "elps_width": 39,
+                "elps_x": 177,
+                "elps_y": 123
+            },
+            "pic_coordinates": {
+                "col": 1,
+                "row": 4
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 348.0,
+                "elps_height": 12,
+                "elps_width": 12,
+                "elps_x": 176,
+                "elps_y": 45
+            },
+            "pic_coordinates": {
+                "col": 2,
+                "row": 4
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 189.0,
+                "elps_height": 10,
+                "elps_width": 10,
+                "elps_x": 93,
+                "elps_y": 43
+            },
+            "pic_coordinates": {
+                "col": 3,
+                "row": 4
+            }
+        },
+        {
+            "elps_parameters": {
+                "elps_angle": 329.0,
+                "elps_height": 45,
+                "elps_width": 20,
+                "elps_x": 77,
+                "elps_y": 162
+            },
+            "pic_coordinates": {
+                "col": 4,
+                "row": 4
+            }
+        }
+    ]
+}

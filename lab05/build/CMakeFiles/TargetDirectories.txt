@@ -1,0 +1,3 @@
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/lab05/build/CMakeFiles/kr-task.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/lab05/build/CMakeFiles/edit_cache.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/lab05/build/CMakeFiles/rebuild_cache.dir
