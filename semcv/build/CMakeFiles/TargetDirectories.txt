@@ -1,0 +1,3 @@
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/semcv/build/CMakeFiles/semcv.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/semcv/build/CMakeFiles/edit_cache.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/semcv/build/CMakeFiles/rebuild_cache.dir
