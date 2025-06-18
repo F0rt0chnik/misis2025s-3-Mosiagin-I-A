@@ -1,0 +1,8 @@
+{
+    "F1-score": 0.8936170212765958,
+    "FalseNegatives": 4,
+    "FalsePositives": 1,
+    "Precision": 0.9545454545454546,
+    "Recall": 0.84,
+    "TruePositives": 21
+}

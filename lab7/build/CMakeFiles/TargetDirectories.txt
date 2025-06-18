@@ -1,0 +1,4 @@
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/lab7/build/CMakeFiles/task07-01.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/lab7/build/CMakeFiles/task07-02.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/lab7/build/CMakeFiles/edit_cache.dir
+/Users/ivanmosagin/Desktop/GIT_REpa/misis2025s-3-secname-I-A/lab7/build/CMakeFiles/rebuild_cache.dir
